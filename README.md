@@ -15,6 +15,10 @@ Example : python "/data1/home/8B07/Anthony/bone-abnormality-classification/final
 ## Package requirements:
 requirements.txt is provided in the folder <br>
 
+## Overall Project
+[DBME5028_Midterm_Project.pdf](https://github.com/alwaysmle/Bone-Abnormality-Classification/files/8417846/DBME5028_Midterm_Project.pdf)
+
+
 <p align="center">
     <img src="https://user-images.githubusercontent.com/29053630/161746574-5e4dde54-3512-4b54-95c9-52ae53a78c6f.png" width="400">
     <p align="center">General network structure in the RegNet</p>
