@@ -1,4 +1,4 @@
-# Bone-Abnormality-Classification
+# Bone-Abnormality-Classification [(Homepage)](https://www.htyang.com/projects)
 Bone abnormalities classification is crucial in diagnosing Musculoskeletal Disorders (MSDs). In this research, Regnet is used with a three-layer classifier to predict the abnormality of the hand X-ray image. Data augmentation such as rotation, horizontal flip, and translation are proved to benefit the model in this task. To deal with the data imbalance, we also propose a weighted binary cross-entropy loss function. Learning rate is decay in step to achieve the local minimum of the model. Grad-Cam is used to visualize the abnormality of specific region in the image. Overall, we reach an AUC:0.82 in testing data on Kaggle after ensembling.
 
 ## Download model
